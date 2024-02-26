@@ -1,4 +1,4 @@
-# Section B14: Investigating the Impact of Input Methods on Human Language Evolution
+# Section B14: Predicting Political Affiliations of Social Media Users
 
 
 ## Team Members
