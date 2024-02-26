@@ -1,5 +1,6 @@
-# Predicting Political Affiliations of Social Media Users
-
+---
+layout: default
+---
 
 ## Team Members
 
