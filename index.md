@@ -1,22 +1,44 @@
-# Haoyu Fu    Yixuan Zhang
+# Predicting Political Affiliations of Social Media Users
+
+## Haoyu Fu    Yixuan Zhang
+
 Email: h6fu@ucsd.edu      yiz119@ucsd.edu
 
-# Section B14: Investigating the Impact of Input Methods on Human Language Evolution
-Mentor: Haojian Jin
+## Mentor: Haojian Jin
 
-# Questions and Answers
-**What is the most interesting topic covered in your domain this quarter?**
+# Background
 
-The most interesting thing to me is that large language models like ChatGPT can answer questions by imitating to the tone and opinions of a person given the speeches made from that person.
+**Traditional Polling**: relies on approaches such as surveying, phone calling, interviewing,
+which are time consuming and requires a lot of human resources.
 
-**Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
+**Innovative Approach**: This project aims to explore novel ways to find people’s political
+affiliations by utilizing machine learning and large language models, which can potentially
+reduce the cost of polling.
 
-The potential project I'm thinking is to let LLMs to imitate UCSD students and answer UCSD related questions. So I would like to investigate the discussions about UCSD from social medias (like Instagram, Reddit, etc.), and see if these data could be used for my Quarter 2 Project. 
+# Data
+**Data Source**: Twitter dataset from Kaggle containing tweets with hashtags #Biden and #Trump.
 
-**What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
+**Data Format**: After data cleaning, the data feature contains user IDs, tweet posting
+times, and tweet text content.
 
-I'd like to decide the code structure in the very beginning of the project, and encapsulate the code in class and functions. We are currently writing codes inside a single Jupyter notebook, and the codes become hard to organize as we write more of them. Resturcturing the codes now takes a lot of work, and if we decided the code structure earlier we can save a lot of time and develop more efficiently.
+**Pre-Processing**: Unnecessary information such as URL links, @ mentions, and tags were
+removed from the tweets.
 
-**What other techniques would you be interested in using in your project?**
+# Methods
 
-I'd like to learn more data collecting techniques. The approaches of finding data I know includes web scraping, platform APIs, and searching existing datasets. All of these approaches have respective limitations, and I hope to learn more techiques that could help on data collection.
+### Text Processing**: 
+
+The text content is the tweet component that we are most interested in. 
+We made two different processing on the text data.
+
+**Fine tuning and semantic embedding**: We fine tuned some large language models (LLMs)
+with the tweet texts, and propted the LLMs to answer our questions on some political topics. 
+Then we convert the responses into semantic embeddings for later processes.
+
+**Sentiment clustering**: We also ran a sentiment analysis on the text to extract the
+users’ emotions on the topics discussed. Then we clustered these processed data to
+group similar users together.
+
+# Results
+
+# References
