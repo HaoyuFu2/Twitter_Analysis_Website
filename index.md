@@ -3,6 +3,7 @@ layout: default
 title: "Predicting Political Affiliations of Social Media Users"
 ---
 
+# [Project Repository](https://github.com/HaoyuFu2/DSC180B_Twitter_Political_Analysis)
 
 ## Team Members
 
