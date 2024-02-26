@@ -1,6 +1,8 @@
 ---
 layout: default
+title: "Predicting Political Affiliations of Social Media Users"
 ---
+
 
 ## Team Members
 
