@@ -5,27 +5,16 @@ title: "Predicting Political Affiliations of Social Media Users"
 
 ## Team Members
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="margin-right: 15px;">
-    <strong>Haoyu Fu</strong><br>
-    <a href="mailto:h6fu@ucsd.edu">h6fu@ucsd.edu</a>
-  </div>
-  <div>
-    <strong>Yixuan Zhang</strong><br>
-    <a href="mailto:yiz119@ucsd.edu">yiz119@ucsd.edu</a>
-  </div>
-</div>
+- **Haoyu Fu**  
+  Email: [h6fu@ucsd.edu](mailto:h6fu@ucsd.edu)
+- **Yixuan Zhang**  
+  Email: [yiz119@ucsd.edu](mailto:yiz119@ucsd.edu)
+
 
 ## Mentor
 
-<div style="display: flex; justify-content: start; align-items: center;">
-  <div>
-    <strong>Haojian Jin</strong><br>
-    <a href="mailto:haojian@ucsd.edu">haojian@ucsd.edu</a>
-  </div>
-</div>
-
-
+- **Haojian Jin**  
+  Email: [haojian@ucsd.edu](mailto:haojian@ucsd.edu)
 
 
 # Background
