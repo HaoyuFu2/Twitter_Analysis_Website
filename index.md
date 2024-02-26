@@ -2,9 +2,9 @@
 
 ## Team Members
 
-- **Haoyu Fu**  
+- **Haoyu Fu**
   Email: [h6fu@ucsd.edu](mailto:h6fu@ucsd.edu)
-- **Yixuan Zhang**  
+- **Yixuan Zhang**
   Email: [yiz119@ucsd.edu](mailto:yiz119@ucsd.edu)
 
 ## Mentor
