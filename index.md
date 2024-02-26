@@ -1,6 +1,4 @@
-# Predicting Political Affiliations of Social Media Users
-
-## Team Members
+## Team Members (B14)
 
 - **Haoyu Fu**  
   Email: [h6fu@ucsd.edu](mailto:h6fu@ucsd.edu)
