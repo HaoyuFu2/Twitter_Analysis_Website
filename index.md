@@ -1,4 +1,7 @@
-## Team Members (B14)
+# Section B14: Investigating the Impact of Input Methods on Human Language Evolution
+
+
+## Team Members
 
 - **Haoyu Fu**  
   Email: [h6fu@ucsd.edu](mailto:h6fu@ucsd.edu)
