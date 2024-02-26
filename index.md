@@ -1,5 +1,5 @@
-# Haoyu Fu
-Email: h6fu@ucsd.edu
+# Haoyu Fu  Yixuan Zhang
+Email: h6fu@ucsd.edu  yiz119@ucsd.edu
 
 # Section B14: Investigating the Impact of Input Methods on Human Language Evolution
 Mentor: Haojian Jin
