@@ -7,11 +7,10 @@
 - **Yixuan Zhang**  
   Email: [yiz119@ucsd.edu](mailto:yiz119@ucsd.edu)
 
-Email: h6fu@ucsd.edu      yiz119@ucsd.edu
-
 ## Mentor
 
 - **Haojian Jin**
+  Email: [h7jin@ucsd.edu](mailto:h7jin@ucsd.edu)
 
 # Background
 
@@ -46,6 +45,18 @@ Then we convert the responses into semantic embeddings for later processes.
 users’ emotions on the topics discussed. Then we clustered these processed data to
 group similar users together.
 
+### Layers:
+With the text data processed, we fed the embeddings to dense layers, along with the
+user ID and the post times, to generate a binary results showing whether the user
+agree or disagree with a given political event or topic.
+
+**Dense layer** is a type of neural network tool, and our purpose of using dense layers is to
+capture the latent patterns within the embeddings.
+
 # Results
+TODO
+TODO
+TODO
 
 # References
+Junsol Kim and Byungkyu Lee. Ai-augmented surveys: Leveraging large language models and surveys for opinion prediction, 2023.
