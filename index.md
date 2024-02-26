@@ -2,56 +2,50 @@
 
 ## Team Members
 
-- **Haoyu Fu**  
+- **Haoyu Fu**
   Email: [h6fu@ucsd.edu](mailto:h6fu@ucsd.edu)
-- **Yixuan Zhang**  
+- **Yixuan Zhang**
   Email: [yiz119@ucsd.edu](mailto:yiz119@ucsd.edu)
 
 ## Mentor
 
 - **Haojian Jin**
-  Email: [h7jin@ucsd.edu](mailto:h7jin@ucsd.edu)
+  Email: [haojian@ucsd.edu](mailto:haojian@ucsd.edu)
+
+
+
+
+
+
 
 # Background
 
-**Traditional Polling**: relies on approaches such as surveying, phone calling, interviewing,
-which are time consuming and requires a lot of human resources.
+- **Traditional Polling**: Traditional methods include surveying, phone calling, and interviewing. These methods are time-consuming and require significant human resources.
 
-**Innovative Approach**: This project aims to explore novel ways to find people’s political
-affiliations by utilizing machine learning and large language models, which can potentially
-reduce the cost of polling.
+- **Innovative Approach**: Our project seeks to explore novel methodologies for determining people's political affiliations using machine learning and large language models. This approach aims to potentially reduce the costs and resources needed for polling.
 
 # Data
-**Data Source**: Twitter dataset from Kaggle containing tweets with hashtags #Biden and #Trump.
 
-**Data Format**: After data cleaning, the data feature contains user IDs, tweet posting
-times, and tweet text content.
+- **Data Source**: We utilize a Twitter dataset from Kaggle, which contains tweets tagged with #Biden and #Trump.
 
-**Pre-Processing**: Unnecessary information such as URL links, @ mentions, and tags were
-removed from the tweets.
+- **Data Format**: The cleaned data features include user IDs, tweet posting times, and the text content of tweets.
+
+- **Pre-Processing**: We removed unnecessary information such as URL links, @ mentions, and hashtags to clean the tweet data.
 
 # Methods
 
-### Text Processing**: 
+### Text Processing
 
-The text content is the tweet component that we are most interested in. 
-We made two different processing on the text data.
+- **Fine Tuning and Semantic Embedding**: We fine-tuned large language models (LLMs) with the tweet texts and prompted the LLMs to respond to questions on political topics. The responses were then converted into semantic embeddings for subsequent analysis.
 
-**Fine tuning and semantic embedding**: We fine tuned some large language models (LLMs)
-with the tweet texts, and propted the LLMs to answer our questions on some political topics. 
-Then we convert the responses into semantic embeddings for later processes.
-
-**Sentiment clustering**: We also ran a sentiment analysis on the text to extract the
-users’ emotions on the topics discussed. Then we clustered these processed data to
-group similar users together.
+- **Sentiment Clustering**: A sentiment analysis was performed on the tweet text to gauge users' emotions regarding the discussed topics. We then clustered the processed data to group users with similar sentiments together.
 
 ### Layers:
-With the text data processed, we fed the embeddings to dense layers, along with the
+- With the text data processed, we fed the embeddings to dense layers, along with the
 user ID and the post times, to generate a binary results showing whether the user
 agree or disagree with a given political event or topic.
 
-**Dense layer** is a type of neural network tool, and our purpose of using dense layers is to
-capture the latent patterns within the embeddings.
+- **Dense layer** is a type of neural network tool, and our purpose of using dense layers is to capture the latent patterns within the embeddings.
 
 # Results
 TODO
