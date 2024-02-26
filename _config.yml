@@ -1,3 +1,6 @@
+github:
+  repository_url: https://github.com/HaoyuFu2/DSC180B_Twitter_Political_Analysis
+  
 title: Predicting Political Affiliations of Social Media Users
 description: A project exploring the use of machine learning and large language models to predict political affiliations based on social media activity.
 # show_downloads: true
