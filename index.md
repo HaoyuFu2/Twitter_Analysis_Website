@@ -1,4 +1,4 @@
-# Section B14: Predicting Political Affiliations of Social Media Users
+# Predicting Political Affiliations of Social Media Users
 
 
 ## Team Members
