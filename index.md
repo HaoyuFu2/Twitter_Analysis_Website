@@ -1,10 +1,17 @@
 # Predicting Political Affiliations of Social Media Users
 
-## Haoyu Fu    Yixuan Zhang
+## Team Members
+
+- **Haoyu Fu**  
+  Email: [h6fu@ucsd.edu](mailto:h6fu@ucsd.edu)
+- **Yixuan Zhang**  
+  Email: [yiz119@ucsd.edu](mailto:yiz119@ucsd.edu)
 
 Email: h6fu@ucsd.edu      yiz119@ucsd.edu
 
-## Mentor: Haojian Jin
+## Mentor
+
+- **Haojian Jin**
 
 # Background
 
