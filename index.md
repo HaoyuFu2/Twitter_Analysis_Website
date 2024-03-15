@@ -19,6 +19,8 @@ title: "Predicting Political Affiliations of Social Media Users"
 
 # Background
 
+**Report Link**: [Access the full report here](https://github.com/HaoyuFu2/artifact-directory-template/blob/main/report.pdf)
+
 - **Traditional Polling**: Traditional methods include surveying, phone calling, and interviewing. These methods are time-consuming and require significant human resources.
 
 - **Innovative Approach**: Our project seeks to explore novel methodologies for determining people's political affiliations using machine learning and large language models. This approach aims to potentially reduce the costs and resources needed for polling.
