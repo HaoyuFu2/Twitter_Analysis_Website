@@ -3,6 +3,8 @@ layout: default
 title: "Predicting Political Affiliations of Social Media Users"
 ---
 
+**Report Link**: [Access the full report here](https://github.com/HaoyuFu2/artifact-directory-template/blob/main/report.pdf)
+
 ## Team Members
 
 - **Haoyu Fu**  
@@ -18,8 +20,6 @@ title: "Predicting Political Affiliations of Social Media Users"
 
 
 # Background
-
-**Report Link**: [Access the full report here](https://github.com/HaoyuFu2/artifact-directory-template/blob/main/report.pdf)
 
 - **Traditional Polling**: Traditional methods include surveying, phone calling, and interviewing. These methods are time-consuming and require significant human resources.
 
